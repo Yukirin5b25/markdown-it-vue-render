@@ -1,24 +1,13 @@
-# webpack
+# Markdown-It-Vue-Render
 
-## Project setup
-```
-yarn install
-```
+The Project is still in WIP
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Start developing
 
-### Compiles and minifies for production
-```
-yarn build
-```
+```yarn run serve```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## ToDo List
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [] Install Vuetify, or totally give it up.
+- [] Finish docker-compose for local development.
+- [] Make 3rd plugins like echarts, mermaid optional.
