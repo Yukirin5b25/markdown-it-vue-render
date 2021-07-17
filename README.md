@@ -8,6 +8,7 @@ The Project is still WIP
 
 ## ToDo List
 
-- [ ] Install Vuetify, or totally give it up.
+- [x] Install Vuetify, or totally give it up.
 - [ ] Finish docker-compose for local development.
 - [ ] Make 3rd plugins like echarts, mermaid optional.
+- [ ] Fix Toc Anchors.
