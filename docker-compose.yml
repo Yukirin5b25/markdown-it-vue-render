@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+    test:
+        container_name: test
+        restart: always
+        volumes:
+            - type: bind
+              source: ./
+              target: /usr/src/vue-app
+            - /usr/src/vue-app/node_modules
+        image: test-image
+        build:
+            context: .
+            dockerfile: Dockerfile
