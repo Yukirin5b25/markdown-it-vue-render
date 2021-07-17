@@ -1,6 +1,6 @@
 # Markdown-It-Vue-Render
 
-The Project is still in WIP
+The Project is still WIP
 
 ## Start developing
 
@@ -8,6 +8,6 @@ The Project is still in WIP
 
 ## ToDo List
 
-- [] Install Vuetify, or totally give it up.
-- [] Finish docker-compose for local development.
-- [] Make 3rd plugins like echarts, mermaid optional.
+- [ ] Install Vuetify, or totally give it up.
+- [ ] Finish docker-compose for local development.
+- [ ] Make 3rd plugins like echarts, mermaid optional.
